@@ -61,14 +61,6 @@ Every pixel of every frame is a light ray traced backwards through curved spacet
 
 ## ⚙️ Installation
 
-### Prerequisites
-
-- **Python 3.8+**
-- A GPU with **OpenGL 3.2+**
-  - ✅ Intel HD 4000 or newer
-  - ✅ Apple Silicon (M1 / M2 / M3)
-  - ✅ Any modern AMD / NVIDIA card
-
 ### Setup
 
 ```bash
